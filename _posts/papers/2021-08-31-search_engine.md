@@ -1,16 +1,21 @@
 ---
 layout: paper
 categories: papers
-permalink: papers/argo-scholar
-id: argo-scholar
-title: "Argo Scholar: Interactive Visual Exploration of Literature in Browsers"
+permalink: papers/search_engine
+id: search_engine
+title: "A Search Engine for Discovery of Scientific Challenges and Directions"
 authors: 
-  - Kevin Li, 
-  - Haoyang Yang, 
-  - Anish Upadhayay, 
-  - Zhiyan Zhou, 
-  - Jon Saad-Falcon, 
-  - Duen Horng (Polo) Chau
+  - Dan Lahav
+  - Jon Saad Falcon
+  - Bailey Kuehl
+  - Sophie Johnson
+  - Sravanthi Parasa
+  - Noam Shomron
+  - Duen Horng Chau
+  - Diyi Yang
+  - Eric Horvitz
+  - Daniel S. Weld
+  - Tom Hope
 venue: "IEEE Visualization Conference 2021"
 venue-shorthand: VIS'21
 url: /papers/argo-scholar
