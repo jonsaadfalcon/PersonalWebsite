@@ -17,6 +17,7 @@ authors:
   - Daniel S. Weld
   - Tom Hope
 venue: "Pre-print"
+year: 2021
 url: /papers/search_engine
 pdf: https://arxiv.org/pdf/2108.13751.pdf
 type: conference
