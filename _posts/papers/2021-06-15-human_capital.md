@@ -1,39 +1,40 @@
 ---
 layout: paper
 categories: papers
-permalink: papers/energy-vis
-id: energy-vis
-title: "EnergyVis: Interactively Tracking and Exploring Energy Consumption for ML Models"
+permalink: papers/human_capital
+id: human_capital
+title: "Large-Scale Analysis of Career Transitions: The Impact of Human Capital, Job History, and Language Factors"
 authors: 
-  - Omar Shaikh 
+  - Austin P Wright
+  - Caleb Ziems
+  - Haekyu Park
   - Jon Saad-Falcon
   - Austin P Wright
-  - Nilaksh Das
-  - Scott Freitas
-  - Omar Isaac Asensio
   - Duen Horng (Polo) Chau
-venue: "CHI '21 Extended Abstracts"
-venue-shorthand: CHI LBW
+  - Diyi Yang
+  - Maria Tomprou
+venue: "Pre-print"
 year: 2021
-url: /papers/energy-vis
-pdf: https://arxiv.org/abs/2010.04625
-video: https://youtu.be/QuVsnS9p1Qc
+url: /papers/human_capital
+pdf: https://arxiv.org/abs/2106.11846
 type: conference
-image: /images/papers/21-energyvis-map.png
-figure: /images/featured/21-energyvis-overview.png
-feature-title: "EnergyVis"
-feature-description: "Interactively Tracking and Exploring Energy Consumption for ML Models"
+image: /images/papers/human_capital.png
+figure: /images/featured/human_capital.png
+feature-title: "Human Capital"
+feature-description: "Quantifying the Impact of Human Capital, Job History, and Language Factors on Job Seniority with a Large-scale Analysis of Resumes"
 featured: true
-feature-order: 1
+feature-order: 4
 selected: true
 bibtex: |-
 
-  @article{shaikh2021energyvis,
-    title={EnergyVis: Interactively Tracking and Exploring Energy Consumption for ML Models},
-    author={Shaikh, Omar and Saad-Falcon, Jon and Wright, Austin P and Das, Nilaksh and Freitas, Scott and Asensio, Omar Isaac and Chau, Duen Horng},
-    journal={arXiv preprint arXiv:2103.16435},
-    year={2021}
+  @misc{wright2021quantifying,
+      title={Quantifying the Impact of Human Capital, Job History, and Language Factors on Job Seniority with a Large-scale Analysis of Resumes}, 
+      author={Austin P Wright and Caleb Ziems and Haekyu Park and Jon Saad-Falcon and Duen Horng Chau and Diyi Yang and Maria Tomprou},
+      year={2021},
+      eprint={2106.11846},
+      archivePrefix={arXiv},
+      primaryClass={econ.GN}
   }
 ---
 
-The advent of larger machine learning (ML) models have improved state-of-the-art (SOTA) performance in various modeling tasks, ranging from computer vision to natural language. As ML models continue increasing in size, so does their respective energy consumption and computational requirements. However, the methods for tracking, reporting, and comparing energy consumption remain limited. We presentEnergyVis, an interactive energy consumption tracker for ML models. Consisting of multiple coordinated views, EnergyVis enables researchers to interactively track, visualize and compare model energy consumption across key energy consumption and carbon footprint metrics (kWh and CO2), helping users explore alternative deployment locations and hardware that may reduce carbon footprints. EnergyVis aims to raise awareness concerning computational sustainability by interactively highlighting excessive energy usage during model training; and by providing alternative training options to reduce energy usage.
+As job markets worldwide have become more competitive and applicant selection criteria have become more opaque, and different (and sometimes contradictory) information and advice is available for job seekers wishing to progress in their careers, it has never been more difficult to determine which factors in a résumé most effectively help career progression. In this work we present a novel, large scale dataset of over half a million résumés with preliminary analysis to begin to answer empirically which factors help or hurt people wishing to transition to more senior roles as they progress in their career. We find that previous experience forms the most important factor, outweighing other aspects of human capital, and find which language factors in a résumé have significant effects. This lays the groundwork for future inquiry in career trajectories using large scale data analysis and natural language processing techniques.
