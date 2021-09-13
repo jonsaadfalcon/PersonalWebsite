@@ -5,7 +5,7 @@
   year: "Summer 2021"
   mentors:
     - Christopher Potts
-  description: "Accepted for a cohort of 12 students out of 723 applicants. Constructing open-domain question answering models for the scientific research domain."
+  description: "Accepted for a cohort of 12 students out of 723 applicants. Constructing new benchmark dataset for naturalistic, technical question-answering models."
   institution-url: https://www-csli.stanford.edu/
   group-url: https://nlp.stanford.edu/
   type: academic
@@ -37,6 +37,20 @@
   institution-url: https://gatech.edu
   group-url: https://www.cc.gatech.edu/~dyang888/
   type: academic
+  
+- institution: Allen Institute for Artificial Intelligence (AI2)
+  location: "Seattle, Washington (remote)"
+  position: Predoctoral Young Investigator
+  group: "Semantic Scholar"
+  year: "Fall 2021 - Present"
+  mentors:
+    - Dan Weld
+    - Tom Hope
+    - Jonathan Bragg
+  description: "Developing semantically-logical tokenizers for information extraction of biomedical documents. Building clustering algorithms for accelerating the rate of hypothesis generation and literature-based discovery."
+  institution-url: https://allenai.org/
+  group-url: https://pages.semanticscholar.org/about-us
+  type: industry
 
 - institution: Allen Institute for Artificial Intelligence (AI2)
   location: "Seattle, Washington (remote)"
@@ -46,7 +60,7 @@
   mentors:
     - Dan Weld
     - Tom Hope
-  description: "Creating new exploration techniques for COVID-19 Mechanism Knowledge Base. Developing clustering algorithms for accelerating the rate of hypothesis generation and literature-based discovery. "
+  description: "Constructed search engine for exploring of challenges and future directions within COVID-19 literature. Collaborated with 10+ medical professionals to design better tools for assisting scientific research."
   institution-url: https://allenai.org/
   group-url: https://pages.semanticscholar.org/about-us
   type: industry
