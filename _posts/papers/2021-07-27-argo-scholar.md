@@ -5,11 +5,11 @@ permalink: papers/argo-scholar
 id: argo-scholar
 title: "Argo Scholar: Interactive Visual Exploration of Literature in Browsers"
 authors: 
-  - Kevin Li, 
-  - Haoyang Yang, 
-  - Anish Upadhayay, 
-  - Zhiyan Zhou, 
-  - Jon Saad-Falcon, 
+  - Kevin Li
+  - Haoyang Yang
+  - Anish Upadhayay
+  - Zhiyan Zhou
+  - Jon Saad-Falcon
   - Duen Horng (Polo) Chau
 venue: "IEEE Visualization Conference 2021"
 venue-shorthand: VIS'21
