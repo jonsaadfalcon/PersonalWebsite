@@ -16,11 +16,9 @@ authors:
   - Eric Horvitz
   - Daniel S. Weld
   - Tom Hope
-venue: "IEEE Visualization Conference 2021"
-venue-shorthand: VIS'21
-url: /papers/argo-scholar
-pdf: https://poloclub.github.io/papers/21-vis-argoscholar.pdf
-video: https://www.youtube.com/watch?v=-9Q5e1hmvCI
+venue: "Pre-print"
+url: /papers/search_engine
+pdf: https://arxiv.org/pdf/2108.13751.pdf
 type: conference
 image: /images/papers/argo_scholar.png
 figure: /images/featured/argo_scholar.png
