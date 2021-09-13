@@ -23,7 +23,7 @@ image: /images/featured/20-persuasion-strat.png
 feature-title: "Rhetorical Strategies"
 feature-description: "Examining the Ordering of Rhetorical Strategies in Persuasive Requests"
 featured: true
-feature-order: 1
+feature-order: 2
 selected: true
 bibtex: |-
 
