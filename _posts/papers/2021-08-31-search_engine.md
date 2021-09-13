@@ -20,11 +20,11 @@ venue: "Pre-print"
 url: /papers/search_engine
 pdf: https://arxiv.org/pdf/2108.13751.pdf
 type: conference
-image: /images/papers/argo_scholar.png
-figure: /images/featured/argo_scholar.png
-feature-title: "Argo Scholar"
-feature-description: "Interactive Visual Exploration of Literature in Browsers"
-featured: false
+image: /images/papers/search_engine.png
+figure: /images/featured/search_engine.png
+feature-title: "COVID-19 Literature Exploration"
+feature-description: "A Search Engine for Discovery of Scientific Challenges and Directions"
+featured: true
 feature-order: 1
 selected: true
 bibtex: |-
