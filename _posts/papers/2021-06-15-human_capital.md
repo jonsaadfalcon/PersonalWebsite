@@ -9,7 +9,6 @@ authors:
   - Caleb Ziems
   - Haekyu Park
   - Jon Saad-Falcon
-  - Austin P Wright
   - Duen Horng (Polo) Chau
   - Diyi Yang
   - Maria Tomprou
