@@ -29,14 +29,14 @@ feature-order: 1
 selected: true
 bibtex: |-
 
-@misc{lahav2021search,
-      title={A Search Engine for Discovery of Scientific Challenges and Directions}, 
-      author={Dan Lahav and Jon Saad Falcon and Bailey Kuehl and Sophie Johnson and Sravanthi Parasa and Noam Shomron and Duen Horng Chau and Diyi Yang and Eric Horvitz and Daniel S. Weld and Tom Hope},
-      year={2021},
-      eprint={2108.13751},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
-}
+@inproceedings{saadfalcon2020peoplemap,
+    title={Mapping Researchers with PeopleMap},
+    author={Jon Saad-Falcon and Omar Shaikh and Zijie J. Wang and Austin P. Wright and Sasha Richardson and Duen Horng Chau},
+    booktitle={IEEE Visualization Conference (VIS)},
+    publisher={IEEE},
+    year={2020},
+    url={https://poloclub.github.io/people-map/}
+  }
   
 ---
 
