@@ -5,17 +5,17 @@ permalink: papers/search_engine
 id: search_engine
 title: "A Search Engine for Discovery of Scientific Challenges and Directions"
 authors: 
-  - Dan Lahav
-  - Jon Saad Falcon
-  - Bailey Kuehl 
-  - Sophie Johnson 
-  - Sravanthi Parasa
-  - Noam Shomron
-  - Duen Horng "Polo" Chau
-  - Diyi Yang
-  - Eric Horvitz
-  - Daniel S. Weld
-  - Tom Hope
+  - Dan Lahav 
+  - Jon Saad Falcon 
+  - Bailey Kuehl  
+  - Sophie Johnson  
+  - Sravanthi Parasa 
+  - Noam Shomron  
+  - Duen Horng "Polo" Chau 
+  - Diyi Yang 
+  - Eric Horvitz 
+  - Daniel S. Weld 
+  - Tom Hope 
 venue: "Pre-print"
 year: 2021
 url: /papers/search_engine
