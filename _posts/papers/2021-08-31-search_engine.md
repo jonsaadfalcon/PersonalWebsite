@@ -1,39 +1,43 @@
 ---
 layout: paper
 categories: papers
-permalink: papers/energy-vis
-id: energy-vis
-title: "EnergyVis: Interactively Tracking and Exploring Energy Consumption for ML Models"
+permalink: papers/search_engine
+id: search_engine
+title: "A Search Engine for Discovery of Scientific Challenges and Directions"
 authors: 
-  - Omar Shaikh 
-  - Jon Saad-Falcon
-  - Austin P Wright
-  - Nilaksh Das
-  - Scott Freitas
-  - Omar Isaac Asensio
-  - Duen Horng (Polo) Chau
-venue: "CHI '21 Extended Abstracts"
-venue-shorthand: CHI LBW
+  - Dan Lahav
+  - Jon Saad Falcon
+  - Bailey Kuehl 
+  - Sophie Johnson 
+  - Sravanthi Parasa
+  - Noam Shomron
+  - Duen Horng "Polo" Chau
+  - Diyi Yang
+  - Eric Horvitz
+  - Daniel S. Weld
+  - Tom Hope
+venue: "Pre-print"
 year: 2021
-url: /papers/energy-vis
-pdf: https://arxiv.org/abs/2010.04625
-video: https://youtu.be/QuVsnS9p1Qc
+url: /papers/search_engine
+pdf: https://arxiv.org/abs/2108.13751
 type: conference
-image: /images/papers/21-energyvis-map.png
-figure: /images/featured/21-energyvis-overview.png
-feature-title: "EnergyVis"
-feature-description: "Interactively Tracking and Exploring Energy Consumption for ML Models"
+image: /images/papers/search_engine.png
+figure: /images/featured/search_engine.png
+feature-title: "COVID-19 Literature Exploration"
+feature-description: "A Search Engine for Discovery of Scientific Challenges and Directions"
 featured: true
 feature-order: 1
 selected: true
 bibtex: |-
 
-  @article{shaikh2021energyvis,
-    title={EnergyVis: Interactively Tracking and Exploring Energy Consumption for ML Models},
-    author={Shaikh, Omar and Saad-Falcon, Jon and Wright, Austin P and Das, Nilaksh and Freitas, Scott and Asensio, Omar Isaac and Chau, Duen Horng},
-    journal={arXiv preprint arXiv:2103.16435},
-    year={2021}
-  }
+  @misc{lahav2021search,
+      title={A Search Engine for Discovery of Scientific Challenges and Directions}, 
+      author={Dan Lahav and Jon Saad Falcon and Bailey Kuehl and Sophie Johnson and Sravanthi Parasa and Noam Shomron and Duen Horng Chau and Diyi Yang and Eric Horvitz and Daniel S. Weld and Tom Hope},
+      year={2021},
+      eprint={2108.13751},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
 ---
 
-The advent of larger machine learning (ML) models have improved state-of-the-art (SOTA) performance in various modeling tasks, ranging from computer vision to natural language. As ML models continue increasing in size, so does their respective energy consumption and computational requirements. However, the methods for tracking, reporting, and comparing energy consumption remain limited. We presentEnergyVis, an interactive energy consumption tracker for ML models. Consisting of multiple coordinated views, EnergyVis enables researchers to interactively track, visualize and compare model energy consumption across key energy consumption and carbon footprint metrics (kWh and CO2), helping users explore alternative deployment locations and hardware that may reduce carbon footprints. EnergyVis aims to raise awareness concerning computational sustainability by interactively highlighting excessive energy usage during model training; and by providing alternative training options to reduce energy usage.
+Keeping track of scientific challenges, advances and emerging directions is a fundamental part of research. However, researchers face a flood of papers that hinders discovery of important knowledge. In biomedicine, this directly impacts human lives. To address this problem, we present a novel task of extraction and search of scientific challenges and directions, to facilitate rapid knowledge discovery. We construct and release an expert-annotated corpus of texts sampled from full-length papers, labeled with novel semantic categories that generalize across many types of challenges and directions. We focus on a large corpus of interdisciplinary work relating to the COVID-19 pandemic, ranging from biomedicine to areas such as AI and economics. We apply a model trained on our data to identify challenges and directions across the corpus and build a dedicated search engine. In experiments with 19 researchers and clinicians using our system, we outperform a popular scientific search engine in assisting knowledge discovery. Finally, we show that models trained on our resource generalize to the wider biomedical domain and to AI papers, highlighting its broad utility. We make our data, model and search engine publicly available.
