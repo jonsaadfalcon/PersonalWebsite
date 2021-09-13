@@ -1,0 +1,14 @@
+- name: Coding Languages
+  items:
+    - Python
+    - JavaScript
+    - C
+    - Java
+    - C#
+    - Scala
+
+- name: Technologies
+  items:
+    - PyTorch
+    - Node.js 
+    - React (Native) 

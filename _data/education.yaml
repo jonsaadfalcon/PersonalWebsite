@@ -1,0 +1,19 @@
+- degree: "B.S. - M.S. Program in Computer Science, Minors in Linguistics and Mathematics"
+  years: "Aug. 2018 — May 2022"
+  institution: Georgia Institute of Technology
+  location: "Atlanta, GA"
+  description:
+      "- Overall GPA -  3.96/4.00, Concentrations in Intelligence and Theory"
+  description_second:
+      "- Stamps President's Scholar, Honors Program, and Tapia Scholarship"
+  description_third:
+      "- Undergraduate Research Thesis - PeopleMap, NLP and Visualization Tool for Mapping Out Researchers"
+  institution-url: https://www.gatech.edu/
+  
+- degree: "Berlin Summer Program"
+  years: "Summer 2019"
+  institution: Technische Universität Berlin
+  location: "Berlin, Germany"
+  description:
+      - "Exchange program with classes in Machine Learning, Agile Product Development, Statistics/Probability, and Entrepreneurship."
+  institution-url: https://www.tu.berlin/en/

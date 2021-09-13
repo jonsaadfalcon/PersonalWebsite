@@ -1,0 +1,54 @@
+- id: home
+  description: "jonsaadfalcon.com"
+  color: "#515151"
+  class: "fas fa-home icon"
+  url: "https://jonsaadfalcon.com"
+  on-homepage: false
+  cv-group: 1
+
+- id: email
+  description: "jonsaadfalcon@gatech.edu"
+  color: "#515151"
+  class: "fas fa-envelope icon"
+  url: "mailto:jonsaadfalcon@gatech.edu"
+  on-homepage: true
+  cv-group: 1
+
+- id: twitter
+  description: "@JonSaadFalcon"
+  color: "#1da1f2"
+  class: "fab fa-twitter icon"
+  url: https://twitter.com/JonSaadFalcon
+  on-homepage: true
+  cv-group: 2
+
+- id: github
+  description: "@jonsaadfalcon"
+  color: "#6e5494"
+  class: "fab fa-github icon"
+  url: "https://github.com/jonsaadfalcon"
+  on-homepage: true
+  cv-group: 2
+
+- id: scholar
+  description: "Google Scholar"
+  color: "#515151"
+  class: "fa fa-graduation-cap icon"
+  url: "https://scholar.google.com/citations?user=zCVmjboAAAAJ&hl=en"
+  on-homepage: true
+  cv-group: 2
+
+- id: cv
+  description: CV PDF
+  color: "#ba2818"
+  class: "far fa-file-pdf icon"
+  url: "/cv.pdf"
+  on-homepage: false
+  cv-group: 1
+
+- id: cv-web
+  description: Here's my CV
+  color: "#515151"
+  class: "fa fa-address-card icon"
+  url: "/cv"
+  on-homepage: false
