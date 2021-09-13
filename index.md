@@ -16,7 +16,7 @@ title: Home
 	</div>
 	<div style="height: 1rem"></div>
 	<div>
-		My research interests span across natural language processing, computational social science, and machine learning. I'm excited to work on projects that leverage NLP models surrounding human understanding of textual datasets. 
+		My research interests span across natural language processing, machine learning, and bioinformatics. I'm excited to work on projects that use NLP models to improve human understanding of textual datasets, particularly in the biomedical and scientific domains. 
 	</div>
 	<div style="height: 1rem"></div>
 	<div>
