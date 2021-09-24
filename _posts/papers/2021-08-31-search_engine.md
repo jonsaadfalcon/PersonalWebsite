@@ -19,7 +19,7 @@ authors:
 venue: "Pre-print"
 year: 2021
 url: /papers/search_engine
-pdf: https://arxiv.org/pdf/2108.13751.pdf
+pdf: https://arxiv.org/abs/2108.13751
 type: conference
 image: /images/papers/search_engine.png
 figure: /images/featured/search_engine.png
