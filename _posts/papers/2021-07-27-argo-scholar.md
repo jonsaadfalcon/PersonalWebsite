@@ -21,8 +21,8 @@ image: /images/papers/argo_scholar.png
 figure: /images/featured/argo_scholar.png
 feature-title: "Argo Scholar"
 feature-description: "Interactive Visual Exploration of Literature in Browsers"
-featured: false
-feature-order: 1
+featured: true
+feature-order: 6
 selected: true
 bibtex: |-
 
