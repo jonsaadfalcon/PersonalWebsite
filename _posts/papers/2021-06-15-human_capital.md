@@ -21,7 +21,7 @@ image: /images/papers/human_capital.png
 figure: /images/featured/human_capital.png
 feature-title: "Human Capital"
 feature-description: "Quantifying the Impact of Human Capital, Job History, and Language Factors on Job Seniority with a Large-scale Analysis of Resumes"
-featured: False
+featured: false
 feature-order: 4
 selected: true
 bibtex: |-
