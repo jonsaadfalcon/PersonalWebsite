@@ -12,15 +12,15 @@ title: Home
 	</div>
 	<div class="intro-left">
 	<div class="intro-left">
-		I'm an undergraduate student pursuing the joint B.S./M.S. in Computer Science in the College of Computing at Georgia Tech <img class="intro-logo" style="width: 18px; padding-bottom: 3px;" src="/images/gt.png">. I'm advised by <a href="http://www.cc.gatech.edu/~dchau/">Polo Chau</a> and <a href="https://www.cc.gatech.edu/~dyang888/">Diyi Yang</a>, working at the <a href="http://poloclub.gatech.edu">Polo Club of Data Science</a> and <a href="https://www.cc.gatech.edu/~dyang888/group.html">Social and Language Technologies (SALT)</a> lab, respectively.
+		I'm currently completing the joint B.S./M.S. in Computer Science in the College of Computing at Georgia Tech <img class="intro-logo" style="width: 18px; padding-bottom: 3px;" src="/images/gt.png" />. I'm advised by <a href="http://www.cc.gatech.edu/~dchau/">Polo Chau</a> and <a href="https://www.cc.gatech.edu/~dyang888/">Diyi Yang</a>, working at the <a href="http://poloclub.gatech.edu">Polo Club of Data Science</a> and Social and Language Technologies (SALT) lab, respectively. I am currently supported by the <a href="https://stampsps.gatech.edu/">Stamps President's Scholarship</a> and work as a Predoctoral Young Investigator at the <a href="https://allenai.org/"> Allen Institute for Artificial Intelligence (AI2)</a>.
 	</div>
 	<div style="height: 1rem"></div>
 	<div>
-		My research interests span across natural language processing, machine learning, and bioinformatics. I'm excited to work on projects that use NLP models to improve human understanding of textual datasets, particularly in the biomedical and scientific domains. 
+		My research interests span across natural language processing, machine learning, and human-computer interaction. I'm excited to work on projects that use NLP architectures and models in the biomedical and scientific domains. 
 	</div>
 	<div style="height: 1rem"></div>
 	<div>
-		I've had the privilege to collaborate with researchers and scientists at <img class="intro-logo" style="width: 22px; padding-bottom: 5px;" src="/images/stanford.svg"> Stanford AI Lab, <img class="intro-logo" style="width: 25px; padding-bottom: 3px;" src="/images/AI2.svg"> Allen Institute for Artificial Intelligence (AI2), and <img class="intro-logo" style="width: 22px" src="/images/goldmansachs.svg"> Goldman Sachs.
+		I've had the privilege to collaborate with researchers and scientists at <img class="intro-logo" style="width: 22px; padding-bottom: 5px;" src="/images/stanford.svg" /> Stanford AI Lab, <img class="intro-logo" style="width: 25px; padding-bottom: 3px;" src="/images/AI2.svg" /> Allen Institute for Artificial Intelligence (AI2), and <img class="intro-logo" style="width: 22px" src="/images/goldmansachs.svg" /> Goldman Sachs.
 	</div>
 </div>
 
