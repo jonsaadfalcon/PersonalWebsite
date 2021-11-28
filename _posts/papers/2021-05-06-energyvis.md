@@ -23,8 +23,8 @@ image: /images/papers/21-energyvis-map.png
 figure: /images/featured/21-energyvis-overview.png
 feature-title: "EnergyVis"
 feature-description: "Interactively Tracking and Exploring Energy Consumption for ML Models"
-featured: false
-feature-order: 1
+featured: true
+feature-order: 5
 selected: true
 bibtex: |-
 
