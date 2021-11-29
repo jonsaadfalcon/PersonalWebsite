@@ -16,7 +16,7 @@ authors:
   - Eric Horvitz
   - Daniel S. Weld
   - Tom Hope
-venue: "Pre-print"
+venue: "NeurIPS 2021, AI for Science Workshop"
 year: 2021
 url: /papers/search_engine
 pdf: https://arxiv.org/abs/2108.13751
