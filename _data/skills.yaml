@@ -10,5 +10,17 @@
 - name: Technologies
   items:
     - PyTorch
-    - Node.js 
-    - React
+    - TensorFlow
+    - Keras
+    - Apache Spark
+    - Node.js
+    - Svelte.js
+    - React.js
+    
+- name: Languages
+  items:
+    - English (native)
+    - Spanish (native)
+    - Arabic (beginner)
+    - French (beginner)
+    
