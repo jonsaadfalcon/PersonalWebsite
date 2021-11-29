@@ -16,8 +16,8 @@ venue-shorthand: VIS'21
 url: /papers/argo-scholar
 pdf: https://poloclub.github.io/papers/21-vis-argoscholar.pdf
 video: https://www.youtube.com/watch?v=-9Q5e1hmvCI
-type: conference
 highlight: Best Poster, Honorable Mention
+type: conference
 image: /images/papers/argo_scholar.png
 figure: /images/featured/argo_scholar.png
 feature-title: "Argo Scholar"
