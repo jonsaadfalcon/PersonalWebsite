@@ -26,10 +26,10 @@ feature-order: 6
 selected: true
 bibtex: |-
 
-  @article{shaikh2021energyvis,
-    title={EnergyVis: Interactively Tracking and Exploring Energy Consumption for ML Models},
-    author={Shaikh, Omar and Saad-Falcon, Jon and Wright, Austin P and Das, Nilaksh and Freitas, Scott and Asensio, Omar Isaac and Chau, Duen Horng},
-    journal={arXiv preprint arXiv:2103.16435},
+  @article{li2021argo,
+    title={Argo Scholar: Interactive Visual Exploration of Literature in Browsers},
+    author={Li, Kevin and Yang, Haoyang and Upadhayay, Anish and Zhou, Zhiyan and Saad-Falcon, Jon and Chau, Duen Horng},
+    journal={arXiv preprint arXiv:2110.14060},
     year={2021}
   }
 ---
