@@ -12,7 +12,7 @@ authors:
   - Jon Saad-Falcon
   - Duen Horng (Polo) Chau
 venue: "IEEE Visualization Conference"
-venue-shorthand: VIS'21
+venue-shorthand: VIS
 year: 2021
 url: /papers/argo-scholar
 pdf: https://poloclub.github.io/papers/21-vis-argoscholar.pdf
