@@ -22,7 +22,7 @@ year: 2022
 url: /papers/search_engine
 pdf: https://arxiv.org/abs/2108.13751
 code: https://github.com/Dan-La/scientific-challenges-and-directions
-demo: https://challenges.apps.allenai.org/about
+demo: https://challenges.apps.allenai.org
 type: conference
 image: /images/papers/search_engine.png
 figure: /images/featured/search_engine.png
