@@ -11,8 +11,9 @@ authors:
   - Zhiyan Zhou
   - Jon Saad-Falcon
   - Duen Horng (Polo) Chau
-venue: "IEEE Visualization Conference 2021"
+venue: "IEEE Visualization Conference"
 venue-shorthand: VIS'21
+year: 2021
 url: /papers/argo-scholar
 pdf: https://poloclub.github.io/papers/21-vis-argoscholar.pdf
 video: https://www.youtube.com/watch?v=-9Q5e1hmvCI
