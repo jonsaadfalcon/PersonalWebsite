@@ -13,7 +13,6 @@ authors:
   - Duen Horng (Polo) Chau
 venue: IEEE Visualization Conference
 venue-shorthand: VIS
-location: Salt Lake City, UT, USA
 year: 2020
 url: /papers/people-map
 pdf: https://arxiv.org/abs/2009.00091
