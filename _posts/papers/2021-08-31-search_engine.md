@@ -16,7 +16,8 @@ authors:
   - Eric Horvitz
   - Daniel S. Weld
   - Tom Hope
-venue: "AAAI"
+venue: AAAI Conference on Artificial Intelligence
+venue-shorthand: AAAI
 year: 2022
 url: /papers/search_engine
 pdf: https://arxiv.org/abs/2108.13751
