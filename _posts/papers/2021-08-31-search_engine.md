@@ -6,7 +6,7 @@ id: search_engine
 title: "A Search Engine for Discovery of Scientific Challenges and Directions"
 authors: 
   - Dan Lahav
-  - Jon Saad Falcon
+  - Jon Saad-Falcon
   - Bailey Kuehl
   - Sophie Johnson
   - Sravanthi Parasa
