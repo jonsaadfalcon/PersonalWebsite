@@ -1,4 +1,4 @@
-I"ÐM<h1 id="cv-title"><a href="http://localhost:4000">Jon Saad-Falcon</a></h1>
+I"ŸO<h1 id="cv-title"><a href="http://localhost:4000">Jon Saad-Falcon</a></h1>
 
 <div class="cv-spacer"></div>
 
@@ -414,7 +414,7 @@ Tom Hope
 	
 
 	
-	  <a href="https://arxiv.org/pdf/2108.13751.pdf">
+	  <a href="https://arxiv.org/abs/2108.13751">
 	    <i class="far fa-file-pdf" aria-hidden="true"></i> PDF
 	  </a>
 	
@@ -468,27 +468,27 @@ Tom Hope
 	
 		
 			
-Kevin Li,,
+Kevin Li,
 		
 	
 		
 			
-Haoyang Yang,,
+Haoyang Yang,
 		
 	
 		
 			
-Anish Upadhayay,,
+Anish Upadhayay,
 		
 	
 		
 			
-Zhiyan Zhou,,
+Zhiyan Zhou,
 		
 	
 		
 			
-Jon Saad-Falcon,,
+Jon Saad-Falcon,
 		
 	
 		
@@ -1036,6 +1036,12 @@ Sasha Richardson,
 
 <div class="cv-service-title"><b>Institutional Volunteering</b></div>
 
+<div class="cv-left-date">January 2021 â€” Present </div>
+<div><a href=""><b>Georgia Tech Venture Capital Fund</b></a>, </div>
+<div><i>Co-founder and Student Director, <a href=""></a></i></div>
+<div class="cv-description">Raising an inaugural multi-million early-stage fund to begin supporting Georgia Tech startups by Spring 2022. Created educational curriculum for teaching 40+ students on the fundamental strategies of venture capital funds</div>
+<div class="cv-spacer"></div>
+
 <div class="cv-left-date">July 2020 â€” Present </div>
 <div><a href=""><b>Computer Science Outreach Club</b></a>, </div>
 <div><i>Founding Member and Volunteer, <a href=""></a></i></div>
@@ -1077,7 +1083,7 @@ Sasha Richardson,
 	
 	Node.js,
 	
-	React (Native)
+	React
 	
 </p>
 

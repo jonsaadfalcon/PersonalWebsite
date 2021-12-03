@@ -1,4 +1,4 @@
-I"(?<h1 id="cv-title"><a href="http://localhost:4000">Jon Saad-Falcon</a></h1>
+I"�S<h1 id="cv-title"><a href="http://localhost:4000">Jon Saad-Falcon</a></h1>
 
 <div class="cv-spacer"></div>
 
@@ -125,7 +125,7 @@ I research how to enable <b><span class="cv-ai">machine learning interpretabilit
 
 	<div class="cv-description">
 		
-			- Stamps President's Scholar, Honors Program, and Tapia Scholarship
+			- Stamps President's Scholar, Honors Program, Tapia Scholarship, and U.N. Millennium Fellowship
 		
 	</div>
 
@@ -151,7 +151,7 @@ I research how to enable <b><span class="cv-ai">machine learning interpretabilit
 
 <div class="cv-left-date">Summer 2019 </div>
 <b>Berlin Summer Program</b>
-<div><a href="https://www.tu.berlin/en/">Technische Universität Berlin</a>, Berlin, Germany</div>
+<div><a href="https://www.tu.berlin/en/">Technische Universität Berlin</a>, Germany</div>
 
 
 
@@ -196,7 +196,7 @@ Christopher Potts
 	
 	
 </div>
-<div class="cv-description">Accepted for a cohort of 12 students out of 723 applicants. Constructing open-domain question answering models for the scientific research domain.</div>
+<div class="cv-description">Accepted for a cohort of 12 students out of 723 applicants. Constructing new benchmark dataset for naturalistic, technical question-answering models.</div>
 <div class="cv-spacer"></div>
 
 <div class="cv-left-date">Present — Aug. 2019</div>
@@ -229,6 +229,30 @@ Diyi Yang
 
 <h2 id="industry-research-experience">Industry Research Experience</h2>
 
+<div class="cv-left-date">Fall 2021 - Present </div>
+<div><a href="https://allenai.org/"><b>Allen Institute for Artificial Intelligence (AI2)</b></a>, Seattle, Washington (remote)</div>
+<div><i>Predoctoral Young Investigator, <a href="https://pages.semanticscholar.org/about-us">Semantic Scholar</a></i></div>
+<div class="cv-description">Mentor: 
+	
+	
+		
+Dan Weld,	
+	
+	
+	
+		
+Tom Hope,	
+	
+	
+	
+		
+Jonathan Bragg
+	
+	
+</div>
+<div class="cv-description">Developing semantically-logical tokenizers for information extraction of biomedical documents. Building clustering algorithms for accelerating the rate of hypothesis generation and literature-based discovery.</div>
+<div class="cv-spacer"></div>
+
 <div class="cv-left-date">Spring 2021 </div>
 <div><a href="https://allenai.org/"><b>Allen Institute for Artificial Intelligence (AI2)</b></a>, Seattle, Washington (remote)</div>
 <div><i>Research Intern, <a href="https://pages.semanticscholar.org/about-us">Semantic Scholar</a></i></div>
@@ -245,7 +269,7 @@ Tom Hope
 	
 	
 </div>
-<div class="cv-description">Creating new exploration techniques for COVID-19 Mechanism Knowledge Base. Developing clustering algorithms for accelerating the rate of hypothesis generation and literature-based discovery. </div>
+<div class="cv-description">Constructed search engine for exploring of challenges and future directions within COVID-19 literature. Collaborated with 10+ medical professionals to design better tools for assisting scientific research.</div>
 <div class="cv-spacer"></div>
 
 <div class="cv-left-date">Summer 2020 </div>
@@ -279,6 +303,11 @@ Michael Lapides
 <div class="cv-description">Apprenticeship program for matching university students with mentors in Google Research</div>
 <div class="cv-spacer-small"></div>
 
+<div class="cv-left-date">Fall 2021</div>
+<div>U.N. Millennium Fellowship, United Nations</div>
+<div class="cv-description">Semester-long leadership development program for supporting student leaders whose organizations address the UN Academic Impact Principles.</div>
+<div class="cv-spacer-small"></div>
+
 <div class="cv-left-date">Fall 2020</div>
 <div>President's Undergraduate Research Award (PURA)</div>
 <div class="cv-description">$1,500 award to support undergraduate research with Georgia Tech faculty advisor</div>
@@ -300,6 +329,437 @@ Michael Lapides
 <div class="cv-spacer-small"></div>
 
 <h2 id="publications">Publications</h2>
+
+<div class="cv-left-date">
+</div>
+
+<div>
+
+	<a href="/papers/colbert_v2"><b>ColBERTv2: Effective and Efficient Retrieval via Lightweight Late Interaction</b></a>
+
+</div>
+
+<div>
+	
+		
+			
+Keshav Santhanam*,
+		
+	
+		
+			
+Omar Khattab*,
+		
+	
+		
+			
+Jon Saad Falcon,
+		
+	
+		
+			
+Christopher Potts,
+		
+	
+		
+			
+Matei Zaharia
+		
+	
+</div>
+
+<div><i>Submission to NAACL.  2022.</i></div>
+
+<div class="pub-misc">
+
+
+	
+
+	
+	  <a href="/papers/colbert_v2">
+	    <i class="fas fa-link" aria-hidden="true"></i> Project
+	  </a>
+	
+
+	
+
+	
+	  <a href="https://arxiv.org/abs/2112.01488">
+	    <i class="far fa-file-pdf" aria-hidden="true"></i> PDF
+	  </a>
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+		
+		
+	
+
+	
+
+	
+
+	
+	
+
+</div>
+
+<div class="cv-spacer"></div>
+
+<div class="cv-left-date">
+</div>
+
+<div>
+
+	<a href="/papers/search_engine"><b>A Search Engine for Discovery of Scientific Challenges and Directions</b></a>
+
+</div>
+
+<div>
+	
+		
+			
+Dan Lahav,
+		
+	
+		
+			
+Jon Saad Falcon,
+		
+	
+		
+			
+Bailey Kuehl,
+		
+	
+		
+			
+Sophie Johnson,
+		
+	
+		
+			
+Sravanthi Parasa,
+		
+	
+		
+			
+Noam Shomron,
+		
+	
+		
+			
+Duen Horng Chau,
+		
+	
+		
+			
+Diyi Yang,
+		
+	
+		
+			
+Eric Horvitz,
+		
+	
+		
+			
+Daniel S. Weld,
+		
+	
+		
+			
+Tom Hope
+		
+	
+</div>
+
+<div><i>AAAI.  2022.</i></div>
+
+<div class="pub-misc">
+
+
+	
+
+	
+	  <a href="/papers/search_engine">
+	    <i class="fas fa-link" aria-hidden="true"></i> Project
+	  </a>
+	
+
+	
+
+	
+	  <a href="https://arxiv.org/abs/2108.13751">
+	    <i class="far fa-file-pdf" aria-hidden="true"></i> PDF
+	  </a>
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+		
+		
+	
+
+	
+
+	
+
+	
+	
+
+</div>
+
+<div class="cv-spacer"></div>
+
+<div class="cv-left-date">
+</div>
+
+<div>
+
+	<a href="/papers/argo-scholar"><b>Argo Scholar: Interactive Visual Exploration of Literature in Browsers</b></a>
+
+</div>
+
+<div>
+	
+		
+			
+Kevin Li,
+		
+	
+		
+			
+Haoyang Yang,
+		
+	
+		
+			
+Anish Upadhayay,
+		
+	
+		
+			
+Zhiyan Zhou,
+		
+	
+		
+			
+Jon Saad-Falcon,
+		
+	
+		
+			
+<a href="https://www.cc.gatech.edu/~dchau">Duen Horng (Polo) Chau</a>
+		
+	
+</div>
+
+<div><i>IEEE Visualization Conference 2021 (VIS'21).  .</i></div>
+
+<div class="pub-misc">
+
+
+	
+
+	
+	  <a href="/papers/argo-scholar">
+	    <i class="fas fa-link" aria-hidden="true"></i> Project
+	  </a>
+	
+
+	
+
+	
+	  <a href="https://poloclub.github.io/papers/21-vis-argoscholar.pdf">
+	    <i class="far fa-file-pdf" aria-hidden="true"></i> PDF
+	  </a>
+	
+
+	
+
+	
+	  <a href="https://www.youtube.com/watch?v=-9Q5e1hmvCI">
+	    <i class="fas fa-film" aria-hidden="true"></i> Video
+	  </a>
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+		
+		
+	
+
+	
+
+	
+		<span class="cv-award"><i class="fas fa-star" aria-hidden="true"></i> Best Poster, Honorable Mention</span>
+	
+
+	
+	
+
+</div>
+
+<div class="cv-spacer"></div>
+
+<div class="cv-left-date">
+</div>
+
+<div>
+
+	<a href="/papers/human_capital"><b>Large-Scale Analysis of Career Transitions: The Impact of Human Capital, Job History, and Language Factors</b></a>
+
+</div>
+
+<div>
+	
+		
+			
+Austin P Wright,
+		
+	
+		
+			
+Caleb Ziems,
+		
+	
+		
+			
+<a href="https://haekyu.com">Haekyu Park</a>,
+		
+	
+		
+			
+Jon Saad-Falcon,
+		
+	
+		
+			
+<a href="https://www.cc.gatech.edu/~dchau">Duen Horng (Polo) Chau</a>,
+		
+	
+		
+			
+Diyi Yang,
+		
+	
+		
+			
+Maria Tomprou
+		
+	
+</div>
+
+<div><i>Pre-print.  2021.</i></div>
+
+<div class="pub-misc">
+
+
+	
+
+	
+	  <a href="/papers/human_capital">
+	    <i class="fas fa-link" aria-hidden="true"></i> Project
+	  </a>
+	
+
+	
+
+	
+	  <a href="https://arxiv.org/abs/2106.11846">
+	    <i class="far fa-file-pdf" aria-hidden="true"></i> PDF
+	  </a>
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+		
+		
+	
+
+	
+
+	
+
+	
+	
+
+</div>
+
+<div class="cv-spacer"></div>
 
 <div class="cv-left-date">
 </div>
@@ -673,6 +1133,12 @@ Sasha Richardson,
 
 <div class="cv-service-title"><b>Institutional Volunteering</b></div>
 
+<div class="cv-left-date">January 2021 — Present </div>
+<div><a href=""><b>Georgia Tech Venture Capital Fund</b></a>, </div>
+<div><i>Co-founder and Student Director, <a href=""></a></i></div>
+<div class="cv-description">Raising an inaugural multi-million early-stage fund to begin supporting Georgia Tech startups by Spring 2022. Created educational curriculum for teaching 40+ students on the fundamental strategies of venture capital funds</div>
+<div class="cv-spacer"></div>
+
 <div class="cv-left-date">July 2020 — Present </div>
 <div><a href=""><b>Computer Science Outreach Club</b></a>, </div>
 <div><i>Founding Member and Volunteer, <a href=""></a></i></div>
@@ -712,9 +1178,30 @@ Sasha Richardson,
 	
 	PyTorch,
 	
+	TensorFlow,
+	
+	Keras,
+	
+	Apache Spark,
+	
 	Node.js,
 	
-	React (Native)
+	Svelte.js,
+	
+	React.js
+	
+</p>
+
+<p style="margin-bottom: 0.3rem">
+	<strong>Languages:</strong>
+	
+	English (native),
+	
+	Spanish (native),
+	
+	Arabic (beginner),
+	
+	French (beginner)
 	
 </p>
 

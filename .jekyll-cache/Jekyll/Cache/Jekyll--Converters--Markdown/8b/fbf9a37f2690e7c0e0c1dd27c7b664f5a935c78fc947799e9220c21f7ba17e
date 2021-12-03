@@ -1,4 +1,4 @@
-I"o<p>stuff with dust</p>
+I"Z<p>stuff with dust</p>
 
 <div>
 
@@ -6,7 +6,9 @@
   <h2>2021</h2>
     <ul>
       
-        <li><a href="/2021/09/12/2021-08-31-search_engine.html"></a> <small style="color: #c0c0c0"></small></li>
+        <li><a href="/papers/colbert_v2">ColBERTv2: Effective and Efficient Retrieval via Lightweight Late Interaction</a> <small style="color: #c0c0c0">papers</small></li>
+      
+        <li><a href="/papers/search_engine">A Search Engine for Discovery of Scientific Challenges and Directions</a> <small style="color: #c0c0c0">papers</small></li>
       
         <li><a href="/papers/argo-scholar">Argo Scholar: Interactive Visual Exploration of Literature in Browsers</a> <small style="color: #c0c0c0">papers</small></li>
       
