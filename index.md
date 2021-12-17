@@ -12,7 +12,11 @@ title: Home
 	</div>
 	<div class="intro-left">
 	<div class="intro-left">
-		I'm currently completing the joint B.S./M.S. in Computer Science in the College of Computing at Georgia Tech <img class="intro-logo" style="width: 18px; padding-bottom: 3px;" src="/images/gt.png" />. I'm advised by <a href="http://www.cc.gatech.edu/~dchau/">Polo Chau</a> and <a href="https://www.cc.gatech.edu/~dyang888/">Diyi Yang</a>, working at the <a href="http://poloclub.gatech.edu">Polo Club of Data Science</a> and <a href="https://www.cc.gatech.edu/~dyang888/group.html">Social and Language Technologies (SALT)</a> lab, respectively. I am currently supported by the <a href="https://stampsps.gatech.edu/">Stamps President's Scholarship</a> and work as a Predoctoral Young Investigator at the <a href="https://allenai.org/"> Allen Institute for Artificial Intelligence (AI2)</a>.
+		I'm currently completing the joint B.S./M.S. in Computer Science in the College of Computing at Georgia Tech <img class="intro-logo" style="width: 18px; padding-bottom: 3px;" src="/images/gt.png" />. I'm advised by <a href="http://www.cc.gatech.edu/~dchau/">Polo Chau</a> and <a href="https://www.cc.gatech.edu/~dyang888/">Diyi Yang</a>, working at the <a href="http://poloclub.gatech.edu">Polo Club of Data Science</a> and <a href="https://www.cc.gatech.edu/~dyang888/group.html">Social and Language Technologies (SALT)</a> lab, respectively.
+	</div>
+	<div style="height: 1rem"></div>
+	<div class="intro-left">
+		I am currently supported by the <a href="https://stampsps.gatech.edu/">Stamps President's Scholarship</a> and work as a Predoctoral Young Investigator at the <a href="https://allenai.org/"> Allen Institute for Artificial Intelligence (AI2)</a>.
 	</div>
 	<div style="height: 1rem"></div>
 	<div>
