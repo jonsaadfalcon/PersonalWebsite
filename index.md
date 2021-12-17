@@ -16,7 +16,7 @@ title: Home
 	</div>
 	<div style="height: 1rem"></div>
 	<div class="intro-left">
-		I am currently supported by the <a href="https://stampsps.gatech.edu/">Stamps President's Scholarship</a> and work as a Predoctoral Young Investigator at the <a href="https://allenai.org/"> Allen Institute for Artificial Intelligence (AI2)</a>.
+		I am supported by the <a href="https://stampsps.gatech.edu/">Stamps President's Scholarship</a> and work as a Predoctoral Young Investigator at the <a href="https://allenai.org/"> Allen Institute for Artificial Intelligence (AI2)</a>.
 	</div>
 	<div style="height: 1rem"></div>
 	<div>
