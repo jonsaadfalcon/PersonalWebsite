@@ -12,7 +12,7 @@ title: Home
 	</div>
 	<div class="intro-left">
 	<div class="intro-left">
-		I currently work as a research assistant at Stanford University <img class="intro-logo" style="width: 22px; padding-bottom: 5px;" src="/images/stanford.svg" />, advised by <a href="https://web.stanford.edu/~cgpotts/">Christopher Potts</a> and <a href="https://cs.stanford.edu/people/matei/">Matei Zaharia</a>. I completed the joint B.S./M.S. in Computer Science in the College of Computing at Georgia Tech <img class="intro-logo" style="width: 18px; padding-bottom: 3px;" src="/images/gt.png" />, where I was advised by<a href="http://www.cc.gatech.edu/~dchau/">Polo Chau</a> and <a href="https://www.cc.gatech.edu/~dyang888/">Diyi Yang</a>, working at the <a href="http://poloclub.gatech.edu">Polo Club of Data Science</a> and <a href="https://www.cc.gatech.edu/~dyang888/group.html">Social and Language Technologies (SALT)</a> lab, respectively.
+		I currently work as a research assistant at Stanford University <img class="intro-logo" style="width: 22px; padding-bottom: 5px;" src="/images/stanford.svg" />, advised by <a href="https://web.stanford.edu/~cgpotts/">Christopher Potts</a> and <a href="https://cs.stanford.edu/people/matei/">Matei Zaharia</a>. I completed the joint B.S./M.S. in Computer Science in the College of Computing at Georgia Tech <img class="intro-logo" style="width: 18px; padding-bottom: 3px;" src="/images/gt.png" />, where I was advised by <a href="http://www.cc.gatech.edu/~dchau/">Polo Chau</a> and <a href="https://www.cc.gatech.edu/~dyang888/">Diyi Yang</a>, working at the <a href="http://poloclub.gatech.edu">Polo Club of Data Science</a> and <a href="https://www.cc.gatech.edu/~dyang888/group.html">Social and Language Technologies (SALT)</a> lab, respectively.
 	</div>
 	<div style="height: 1rem"></div>
 	<div class="intro-left">
@@ -20,11 +20,7 @@ title: Home
 	</div>
 	<div style="height: 1rem"></div>
 	<div>
-		My research interests span across <b>natural language processing</b>, <b>machine learning</b>, <b>information extraction</b>, and <b>information retrieval</b>. I'm excited to work on projects that use NLP architectures and models in the biomedical and scientific domains. 
-	</div>
-	<div style="height: 1rem"></div>
-	<div>
-		I've had the privilege to collaborate with researchers and scientists at <img class="intro-logo" style="width: 22px; padding-bottom: 5px;" src="/images/stanford.svg" /> Stanford AI Lab, <img class="intro-logo" style="width: 25px; padding-bottom: 3px;" src="/images/AI2.svg" /> Allen Institute for Artificial Intelligence (AI2), and <img class="intro-logo" style="width: 22px" src="/images/goldmansachs.svg" /> Goldman Sachs.
+		My research interests span across <b>natural language processing</b>, <b>machine learning</b>, <b>information retrieval</b>, and <b>ML systems</b>. I've had the privilege to collaborate with researchers and scientists at <img class="intro-logo" style="width: 22px; padding-bottom: 5px;" src="/images/stanford.svg" /> Stanford AI Lab, <img class="intro-logo" style="width: 25px; padding-bottom: 3px;" src="/images/AI2.svg" /> Allen Institute for Artificial Intelligence (AI2), and <img class="intro-logo" style="width: 22px" src="/images/goldmansachs.svg" /> Goldman Sachs.
 	</div>
 </div>
 
