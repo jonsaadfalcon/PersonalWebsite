@@ -1,3 +1,17 @@
+- institution: Stanford Artificial Intelligence Lab, Stanford University
+  location: "Palo Alto, CA"
+  position: Research Assistant
+  group: "Natural Language Processing Group"
+  year: "Present -"
+  year-extra: "Aug. 2022"
+  mentors:
+    - Christopher Potts
+    - Matei Zaharia
+  description: "Exploring domain adaptive techniques for information retrieval models to improve zero and few-shot accuracy"
+  institution-url: https://stanford.edu/
+  group-url: https://nlp.stanford.edu/
+  type: academic
+
 - institution: Center for the Study of Language and Information (CSLI), Stanford University
   location: "Palo Alto, CA (remote)"
   position: Research Intern
@@ -5,6 +19,7 @@
   year: "Summer 2021"
   mentors:
     - Christopher Potts
+    - Matei Zaharia
   description: "Accepted for a cohort of 12 students out of 723 applicants. Constructing new benchmark dataset for naturalistic, technical question-answering models."
   institution-url: https://www-csli.stanford.edu/
   group-url: https://nlp.stanford.edu/
@@ -14,7 +29,7 @@
   location: "Atlanta, GA"
   position: Undergraduate Research Assistant
   group: Polo Club of Data Science
-  year: "Present —"
+  year: "May 2022 —"
   year-extra: "Aug. 2019"
   mentors: 
     - Duen Horng (Polo) Chau
@@ -28,7 +43,7 @@
   location: "Atlanta, GA"
   position: Undergraduate Research Assistant
   group: Speech and Language Technologies Laboratory
-  year: "Present —"
+  year: "May 2022 —"
   year-extra: "Aug. 2019"
   mentors: 
     - Diyi Yang
@@ -42,12 +57,11 @@
   location: "Seattle, Washington (remote)"
   position: Predoctoral Young Investigator
   group: "Semantic Scholar"
-  year: "Fall 2021 - Present"
+  year: "Aug. 2021"
+  year-extra: "Aug. 2022"
   mentors:
-    - Dan Weld
-    - Tom Hope
-    - Jonathan Bragg
-  description: "Developing semantically-logical tokenizers for information extraction of biomedical documents. Building clustering algorithms for accelerating the rate of hypothesis generation and literature-based discovery."
+    - Doug Downey
+  description: "Designed new efficiency techniques for caching and reusing sequence representations in language models."
   institution-url: https://allenai.org/
   group-url: https://pages.semanticscholar.org/about-us
   type: industry
