@@ -25,7 +25,13 @@ feature-order: 4
 selected: true
 bibtex: |-
 
-  
+  @misc{saad2022embedding,
+      title={Embedding Recycling for Language Models}, 
+      author={Saad-Falcon, Jon and Singh, Amanpreet and Soldaini, Luca and D'Arcy, Mike and Cohan, Arman and Downey, Doug},
+      year={2022},
+      journal={arXiv preprint arXiv:2207.04993},
+      primaryClass={cs.CL}
+  }
   
 ---
 
