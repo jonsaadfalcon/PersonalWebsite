@@ -1,3 +1,9 @@
+- venue: Annual Conference of the North American Chapter of the Association for Computational Linguistics
+  venue-shorthand: NAACL
+  years:
+    - year: 2022
+      url: https://2022.naacl.org/
+
 - venue: Conference on Empirical Methods in Natural Language Processing
   venue-shorthand: EMNLP
   years:
@@ -9,3 +15,5 @@
   years:
     - year: 2020
       url: https://acl2020.org/
+      
+      
