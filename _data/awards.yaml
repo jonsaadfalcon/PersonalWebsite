@@ -2,9 +2,17 @@
   description: Premier full-ride scholarship given to 40 undergraduate students out of 30,000 applicants to Georgia Tech
   year: 2018 - 2022
   
+- name: "Fulbright Scholarship, Research Award, Germany"
+  description: Awarded to top U.S. students interested in research and cultural exchange abroad
+  year: "Spring 2022"
+
+- name: "Knight-Hennessy Scholarship, Finalist, Stanford"
+  description: Full-ride graduate scholarship awarded for academic excellence, leadership, and civic engagement
+  year: "Spring 2022"
+  
 - name: "Donald V. Jackson Fellowship, Georgia Tech College of Computing"
   description: Awarded to well-rounded, first-year master’s student who embodies values of academic excellence and leadership
-  year: Summer 2021
+  year: "Summer 2021"
   
 - name: "Computer Science Research Mentorship Program, Google"
   description: Apprenticeship program for matching university students with mentors in Google Research
