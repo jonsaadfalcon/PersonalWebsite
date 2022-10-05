@@ -25,7 +25,7 @@ image: /images/papers/20-peoplemap.png
 featured: true
 feature-title: "People Map"
 feature-description: "Interactively Mapping Researchers"
-feature-order: 3
+feature-order: 4
 selected: true
 bibtex: |-
 
