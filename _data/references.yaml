@@ -1,3 +1,22 @@
+- name: Christopher Potts
+  position: Professor and Chair
+  group: Department of Linguistics
+  institution: Stanford University 
+  location: Palo Alto, CA, USA
+  phd: true
+  website: "https://web.stanford.edu/~cgpotts/"
+  url: "https://web.stanford.edu/~cgpotts/"
+  
+
+- name: Doug Downey
+  position: Professor and Research Manager
+  group: Semantic Scholar
+  institution: Allen Institute for Artificial Intelligence (AI2)
+  location: Seattle, WA, USA
+  phd: true
+  website: "https://users.cs.northwestern.edu/~ddowney/"
+  url: "https://users.cs.northwestern.edu/~ddowney/"
+
 - name: Polo Chau
   position: Associate Professor
   group: School of Computational Science and Engineering
@@ -9,9 +28,9 @@
 
 - name: Diyi Yang
   position: Assistant Professor
-  group: School of Interactive Computing
-  institution: Georgia Institute of Technology
-  location: Atlanta, GA, USA
+  group: Department of Computer Science
+  institution: Stanford University 
+  location: Palo Alto, CA, USA
   phd: true
-  website: "cc.gatech.edu/~dyang888/"
-  url: "https://www.cc.gatech.edu/~dyang888/"
+  website: "https://cs.stanford.edu/~diyiy/"
+  url: "https://cs.stanford.edu/~diyiy/"
