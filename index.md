@@ -7,7 +7,7 @@ title: Home
 	<div id="intro-title-wrapper" class="intro-left">
 		<h1 id="intro-title">Jon Saad-Falcon</h1>
 		<!-- <div id="intro-subtitle">
-			Undergrad in the College of Computing at Georgia Tech.
+			Research Assistant at Stanford University.
 		</div> -->
 	</div>
 	<div class="intro-left">
