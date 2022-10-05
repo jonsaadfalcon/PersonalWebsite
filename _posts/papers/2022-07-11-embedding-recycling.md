@@ -3,36 +3,35 @@ layout: paper
 categories: papers
 permalink: papers/embedding_recycling
 id: embedding_recycling
-title: "ColBERTv2: Effective and Efficient Retrieval via Lightweight Late Interaction"
+title: "Embedding Recycling for Language Models"
 authors: 
-  - Keshav Santhanam*
-  - Omar Khattab*
   - Jon Saad-Falcon
-  - Christopher Potts
-  - Matei Zaharia
+  - Amanpreet Singh
+  - Luca Soldaini
+  - Michael D'Arcy
+  - Arman Cohan
+  - Doug Downey
 venue: Preprint, under review
 venue-shorthand: Preprint, under review
 url: /papers/embedding_recycling
-pdf: https://arxiv.org/abs/2112.01488
+pdf: https://arxiv.org/abs/2207.04993
 type: conference
 image: /images/papers/ColBERTv2.png
 figure: /images/featured/ColBERTv2.png
-feature-title: "ColBERTv2"
-feature-description: "Effective and Efficient Retrieval via Lightweight Late Interaction"
+feature-title: "Embedding Recycling"
+feature-description: "Caching and Reusing Sequence Representations"
 featured: true
 feature-order: 4
 selected: true
 bibtex: |-
 
-  @misc{santhanam2021colbertv2,
-      title={ColBERTv2: Effective and Efficient Retrieval via Lightweight Late Interaction}, 
-      author={Keshav Santhanam and Omar Khattab and Jon Saad-Falcon and Christopher Potts and Matei Zaharia},
-      year={2021},
-      eprint={2112.01488},
-      archivePrefix={arXiv},
-      primaryClass={cs.IR}
-  }
+  @article{saad2022embedding,
+  title={Embedding Recycling for Language Models},
+  author={Saad-Falcon, Jon and Singh, Amanpreet and Soldaini, Luca and D'Arcy, Mike and Cohan, Arman and Downey, Doug},
+  journal={arXiv preprint arXiv:2207.04993},
+  year={2022}
+}
   
 ---
 
-Neural information retrieval (IR) has greatly advanced search and other knowledge-intensive language tasks. While many neural IR methods encode queries and documents into single-vector representations, late interaction models produce multi-vector representations at the granularity of each token and decompose relevance modeling into scalable token-level computations. This decomposition has been shown to make late interaction more effective, but it inflates the space footprint of these models by an order of magnitude. In this work, we introduce ColBERTv2, a retriever that couples an aggressive residual compression mechanism with a denoised supervision strategy to simultaneously improve the quality and space footprint of late interaction. We evaluate ColBERTv2 across a wide range of benchmarks, establishing state-of-the-art quality within and outside the training domain while reducing the space footprint of late interaction models by 5--8×.
+Training and inference with large neural models is expensive. However, for many application domains, while new tasks and models arise frequently, the underlying documents being modeled remain mostly unchanged. We study how to decrease computational cost in such settings through embedding recycling (ER): re-using activations from previous model runs when performing training or inference. In contrast to prior work focusing on freezing small classification heads for finetuning which often leads to notable drops in performance, we propose caching an intermediate layer's output from a pretrained model and finetuning the remaining layers for new tasks. We show that our method provides a 100% speedup during training and a 55-86% speedup for inference, and has negligible impacts on accuracy for text classification and entity recognition tasks in the scientific domain. For general-domain question answering tasks, ER offers a similar speedup and lowers accuracy by a small amount. Finally, we identify several open challenges and future directions for ER.
