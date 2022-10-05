@@ -21,7 +21,7 @@ figure: /images/featured/EmbeddingRecycling.png
 feature-title: "Embedding Recycling"
 feature-description: "Caching and Reusing Sequence Representations"
 featured: true
-feature-order: 2
+feature-order: 3
 selected: true
 bibtex: |-
 
