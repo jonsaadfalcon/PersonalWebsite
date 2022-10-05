@@ -7,10 +7,10 @@
   cv-group: 1
 
 - id: email
-  description: "jonsaadfalcon@gatech.edu"
+  description: "jonsaadfalcon@gmail.com"
   color: "#515151"
   class: "fas fa-envelope icon"
-  url: "mailto:jonsaadfalcon@gatech.edu"
+  url: "mailto:jonsaadfalcon@gmail.com"
   on-homepage: true
   cv-group: 1
 
