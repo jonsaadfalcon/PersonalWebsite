@@ -16,8 +16,8 @@ venue-shorthand: Preprint, under review
 url: /papers/embedding_recycling
 pdf: https://arxiv.org/abs/2207.04993
 type: conference
-image: /images/papers/ColBERTv2.png
-figure: /images/featured/ColBERTv2.png
+image: /images/papers/EmbeddingRecycling.png
+figure: /images/featured/EmbeddingRecycling.png
 feature-title: "Embedding Recycling"
 feature-description: "Caching and Reusing Sequence Representations"
 featured: true
