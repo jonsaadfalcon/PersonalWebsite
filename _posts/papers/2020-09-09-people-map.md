@@ -29,7 +29,7 @@ feature-order: 4
 selected: true
 bibtex: |-
 
-  @inproceedings{saadfalcon2020peoplemap,
+  @misc{saadfalcon2020peoplemap,
     title={Mapping Researchers with PeopleMap},
     author={Jon Saad-Falcon and Omar Shaikh and Zijie J. Wang and Austin P. Wright and Sasha Richardson and Duen Horng Chau},
     booktitle={IEEE Visualization Conference (VIS)},
