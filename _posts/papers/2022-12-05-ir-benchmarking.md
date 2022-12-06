@@ -16,7 +16,6 @@ authors:
   - Matei Zaharia
   - Christopher Potts
 venue: Preprint, under review
-venue-shorthand: Preprint, under review
 year: 2022
 url: /papers/ir-benchmarking
 pdf: https://arxiv.org/abs/2212.01340
