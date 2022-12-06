@@ -1,8 +1,8 @@
 ---
 layout: paper
 categories: papers
-permalink: papers/ir-benchmark
-id: ir-benchmark
+permalink: papers/ir-benchmarking
+id: ir-benchmarking
 title: "Moving Beyond Downstream Task Accuracy for Information Retrieval Benchmarking"
 authors: 
   - Keshav Santhanam*
@@ -18,7 +18,7 @@ authors:
 venue: Preprint, under review
 venue-shorthand: Preprint, under review
 year: 2022
-url: /papers/ir-benchmark
+url: /papers/ir-benchmarking
 pdf: https://arxiv.org/abs/2212.01340
 code: https://github.com/primeqa/primeqa
 type: conference
