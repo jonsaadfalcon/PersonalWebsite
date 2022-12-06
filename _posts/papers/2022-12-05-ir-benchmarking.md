@@ -30,13 +30,11 @@ feature-order: 5
 selected: false
 bibtex: |-
 
-  @misc{saadfalcon2020peoplemap,
-    title={Mapping Researchers with PeopleMap},
-    author={Jon Saad-Falcon and Omar Shaikh and Zijie J. Wang and Austin P. Wright and Sasha Richardson and Duen Horng Chau},
-    booktitle={IEEE Visualization Conference (VIS)},
-    publisher={IEEE},
-    year={2020},
-    url={https://poloclub.github.io/people-map/}
+  @misc{https://doi.org/10.48550/arxiv.2212.01340,
+    title={Moving Beyond Downstream Task Accuracy for Information Retrieval Benchmarking},
+    author={Santhanam, Keshav and Saad-Falcon, Jon and Franz, Martin and Khattab, Omar and Sil, Avirup and Florian, Radu and Sultan, Md Arafat and Roukos, Salim and Zaharia, Matei and Potts, Christopher},
+    year={2022},
+    url={[https://poloclub.github.io/people-map/](https://arxiv.org/abs/2212.01340)}
   }
 ---
 
