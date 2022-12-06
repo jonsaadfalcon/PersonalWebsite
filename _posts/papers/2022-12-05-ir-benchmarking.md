@@ -34,7 +34,8 @@ bibtex: |-
     title={Moving Beyond Downstream Task Accuracy for Information Retrieval Benchmarking},
     author={Santhanam, Keshav and Saad-Falcon, Jon and Franz, Martin and Khattab, Omar and Sil, Avirup and Florian, Radu and Sultan, Md Arafat and Roukos, Salim and Zaharia, Matei and Potts, Christopher},
     year={2022},
-    url={[https://poloclub.github.io/people-map/](https://arxiv.org/abs/2212.01340)}
+    keywords={Information Retrieval (cs.IR), Computation and Language (cs.CL), FOS: Computer and information sciences, FOS: Computer and information    sciences}
+    url={https://arxiv.org/abs/2212.01340}
   }
 ---
 
