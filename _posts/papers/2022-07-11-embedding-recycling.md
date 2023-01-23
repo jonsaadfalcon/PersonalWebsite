@@ -11,8 +11,8 @@ authors:
   - Michael D'Arcy
   - Arman Cohan
   - Doug Downey
-venue: Preprint, under review
-year: 2022
+venue: EACL Findings
+year: 2023
 url: /papers/embedding_recycling
 pdf: https://arxiv.org/abs/2207.04993
 code: https://github.com/allenai/EmbeddingRecycling
