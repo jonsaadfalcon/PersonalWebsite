@@ -12,7 +12,7 @@ title: Home
 	</div>
 	<div class="intro-left">
 	<div class="intro-left">
-		I currently work as a research assistant at Stanford University <img class="intro-logo" style="width: 22px; padding-bottom: 5px;" src="/images/stanford.svg" />, advised by <a href="https://web.stanford.edu/~cgpotts/">Christopher Potts</a> and <a href="https://cs.stanford.edu/people/matei/">Matei Zaharia</a>. I completed the joint B.S./M.S. in Computer Science at Georgia Tech <img class="intro-logo" style="width: 18px; padding-bottom: 3px;" src="/images/gt.png" />, where I was advised by <a href="http://www.cc.gatech.edu/~dchau/">Polo Chau</a> and <a href="https://cs.stanford.edu/~diyiy/">Diyi Yang</a>.
+		I am a CS Ph.D. student at Stanford University <img class="intro-logo" style="width: 22px; padding-bottom: 5px;" src="/images/stanford.svg" />. Previously, I was a research assistant at Stanford, advised by <a href="https://web.stanford.edu/~cgpotts/">Christopher Potts</a> and <a href="https://cs.stanford.edu/people/matei/">Matei Zaharia</a>. I completed the joint B.S./M.S. in Computer Science at Georgia Tech <img class="intro-logo" style="width: 18px; padding-bottom: 3px;" src="/images/gt.png" />, where I was advised by <a href="http://www.cc.gatech.edu/~dchau/">Polo Chau</a> and <a href="https://cs.stanford.edu/~diyiy/">Diyi Yang</a>.
 	</div>
 	<div style="height: 1rem"></div>
 	<div class="intro-left">
