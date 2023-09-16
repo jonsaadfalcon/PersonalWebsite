@@ -2,8 +2,8 @@
   location: "Palo Alto, CA"
   position: Research Assistant
   group: "Natural Language Processing Group"
-  year: "Present -"
-  year-extra: "Aug. 2022"
+  year: "Aug. 2022 -"
+  year-extra: "May 2023"
   mentors:
     - Christopher Potts
     - Matei Zaharia
@@ -29,8 +29,8 @@
   location: "Atlanta, GA"
   position: Undergraduate Research Assistant
   group: Polo Club of Data Science
-  year: "May 2022 —"
-  year-extra: "Aug. 2019"
+  year: "Aug. 2019  —"
+  year-extra: "May 2022"
   mentors: 
     - Duen Horng (Polo) Chau
   advisor: true
@@ -43,8 +43,8 @@
   location: "Atlanta, GA"
   position: Undergraduate Research Assistant
   group: Speech and Language Technologies Laboratory
-  year: "May 2022 —"
-  year-extra: "Aug. 2019"
+  year: "Aug. 2019  —"
+  year-extra: "May 2022"
   mentors: 
     - Diyi Yang
   advisor: true
@@ -52,7 +52,7 @@
   institution-url: https://gatech.edu
   group-url: https://cs.stanford.edu/~diyiy/
   type: academic
-  
+
 - institution: Allen Institute for Artificial Intelligence (AI2)
   location: "Seattle, WA (remote)"
   position: Predoctoral Young Investigator
