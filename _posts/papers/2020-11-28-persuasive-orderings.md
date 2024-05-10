@@ -23,7 +23,7 @@ image: /images/featured/20-persuasion-strat.png
 feature-title: "Rhetorical Strategies"
 feature-description: "Examining the Ordering of Rhetorical Strategies in Persuasive Requests"
 featured: false
-selected: true
+selected: false
 bibtex: |-
 
   @inproceedings{shaikh-etal-2020-examining,
