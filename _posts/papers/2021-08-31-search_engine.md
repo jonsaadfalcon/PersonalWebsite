@@ -29,8 +29,7 @@ image: /images/papers/search_engine.png
 figure: /images/featured/search_engine.png
 feature-title: "COVID-19 Literature Exploration"
 feature-description: "A Search Engine for Discovery of Scientific Challenges and Directions"
-featured: true
-feature-order: 1
+featured: False
 selected: true
 bibtex: |-
 
