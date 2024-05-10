@@ -53,6 +53,19 @@
   group-url: https://cs.stanford.edu/~diyiy/
   type: academic
 
+- institution: Databricks
+  location: "San Francisco, CA"
+  position: ML Research / Engineering Intern
+  group: ""
+  year: "Aug. 2023 -"
+  year-extra: "Sep. 2023"
+  mentors:
+    - Matei Zaharia
+  description: "Leveraged statistical inference strategies to create novel automated evaluation system for retrieval-augmented generation (RAG)."
+  institution-url: https://www.databricks.com/
+  group-url: https://www.databricks.com/
+  type: industry
+
 - institution: Allen Institute for Artificial Intelligence (AI2)
   location: "Seattle, WA (remote)"
   position: Predoctoral Young Investigator
