@@ -25,7 +25,7 @@ image: /images/papers/20-peoplemap.png
 featured: false
 feature-title: "People Map"
 feature-description: "Interactively Mapping Researchers"
-selected: true
+selected: false
 bibtex: |-
 
   @misc{saadfalcon2020peoplemap,
