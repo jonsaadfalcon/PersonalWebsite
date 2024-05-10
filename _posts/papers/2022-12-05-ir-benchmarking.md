@@ -15,8 +15,8 @@ authors:
   - Salim Roukos
   - Matei Zaharia
   - Christopher Potts
-venue: Preprint, under review
-year: 2022
+venue: ACL Findings
+year: 2023
 url: /papers/ir-benchmarking
 pdf: https://arxiv.org/abs/2212.01340
 code: https://github.com/primeqa/primeqa
