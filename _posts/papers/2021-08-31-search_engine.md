@@ -30,7 +30,7 @@ figure: /images/featured/search_engine.png
 feature-title: "COVID-19 Literature Exploration"
 feature-description: "A Search Engine for Discovery of Scientific Challenges and Directions"
 featured: false
-selected: true
+selected: false
 bibtex: |-
 
   @misc{lahav2021search,
