@@ -22,10 +22,9 @@ highlight: Best Poster, Honorable Mention
 type: conference
 figure: /images/papers/20-peoplemap.png
 image: /images/papers/20-peoplemap.png
-featured: true
+featured: false
 feature-title: "People Map"
 feature-description: "Interactively Mapping Researchers"
-feature-order: 4
 selected: true
 bibtex: |-
 
