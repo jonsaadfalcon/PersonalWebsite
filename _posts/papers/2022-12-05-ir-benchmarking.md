@@ -23,11 +23,11 @@ code: https://github.com/primeqa/primeqa
 type: conference
 figure: /images/papers/ir-benchmark.png
 image: /images/papers/ir-benchmark.png
-featured: false
+featured: true
 feature-title: "Moving Beyond Accuracy"
 feature-description: "Information Retrieval Benchmarking"
-feature-order: 5
-selected: false
+feature-order: 4
+selected: true
 bibtex: |-
 
   @misc{https://doi.org/10.48550/arxiv.2212.01340,
