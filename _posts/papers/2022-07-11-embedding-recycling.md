@@ -11,7 +11,7 @@ authors:
   - Michael D'Arcy
   - Arman Cohan
   - Doug Downey
-venue: EACL Findings
+venue: EACL
 year: 2023
 url: /papers/embedding_recycling
 pdf: https://arxiv.org/abs/2207.04993
@@ -21,8 +21,9 @@ image: /images/papers/EmbeddingRecycling.png
 figure: /images/featured/EmbeddingRecycling.png
 feature-title: "Embedding Recycling"
 feature-description: "Caching and Reusing Sequence Representations"
-featured: false
-selected: false
+featured: true
+feature-order: 3
+selected: true
 bibtex: |-
 
   @misc{saad2022embedding,
