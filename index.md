@@ -16,7 +16,7 @@ title: Home
 	</div>
 	<div style="height: 1rem"></div>
 	<div class="intro-left">
-		I was supported by the <a href="https://stampsps.gatech.edu/">Stamps President's Scholarship</a>. Additionally, I worked as a Predoctoral Young Investigator at the <a href="https://allenai.org/"> Allen Institute for Artificial Intelligence (AI2)</a>, advised by <a href="https://users.cs.northwestern.edu/~ddowney/">Doug Downey</a>.
+		I was supported by the <a href="https://stampsps.gatech.edu/">Stamps President's Scholarship</a>. I also worked as a Predoctoral Young Investigator at the <a href="https://allenai.org/">Allen Institute for Artificial Intelligence (AI2)</a>, advised by <a href="https://users.cs.northwestern.edu/~ddowney/">Doug Downey</a>. Additionally, I was a recipient of a <a href="https://us.fulbrightonline.org/">Fulbright Scholarship</a> and <a href="https://www.gatescambridge.org/">Gates-Cambridge Scholarship</a>.
 	</div>
 	<div style="height: 1rem"></div>
 	<div>
