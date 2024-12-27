@@ -20,7 +20,7 @@ title: Home
 	</div>
 	<div style="height: 1rem"></div>
 	<div>
-		My research interests span across <b>natural language processing</b>, <b>machine learning</b>, <b>information retrieval</b>, and <b>ML systems</b>. I've had the privilege to collaborate with researchers and scientists at <img class="intro-logo" style="width: 22px; padding-bottom: 5px;" src="/images/contextual_ai.svg" /> Contextual AI, <img class="intro-logo" style="width: 22px; padding-bottom: 5px;" src="/images/databricks.svg" /> Databricks, <img class="intro-logo" style="width: 25px; padding-bottom: 3px;" src="/images/AI2.svg" /> Allen Institute for Artificial Intelligence (AI2), and <img class="intro-logo" style="width: 22px" src="/images/goldmansachs.svg" /> Goldman Sachs.
+		My research interests span across <b>natural language processing</b>, <b>machine learning</b>, <b>information retrieval</b>, and <b>ML systems</b>. I've had the privilege to collaborate with researchers and scientists at <img class="intro-logo" style="width: 22px; padding-bottom: 5px;" src="/images/stanford.svg" /> Stanford AI Lab, <img class="intro-logo" style="width: 20px; padding-bottom: 5px;" src="/images/contextual_ai.svg" /> Contextual AI, <img class="intro-logo" style="width: 20px; padding-bottom: 5px;" src="/images/databricks.svg" /> Databricks, <img class="intro-logo" style="width: 25px; padding-bottom: 3px;" src="/images/AI2.svg" /> Allen Institute for Artificial Intelligence (AI2), and <img class="intro-logo" style="width: 22px" src="/images/goldmansachs.svg" /> Goldman Sachs.
 	</div>
 </div>
 
